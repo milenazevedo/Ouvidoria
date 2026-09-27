@@ -1,0 +1,242 @@
+[
+  {
+    "id": "M001",
+    "data": "2026-01-01",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Poste de luz caído na calçada da Rua dos Girassóis há mais de uma semana, oferecendo risco aos pedestres que passam pelo local."
+  },
+  {
+    "id": "M002",
+    "data": "2026-01-02",
+    "categoria_oficial": "segurança",
+    "texto": "Assaltos frequentes na saída do terminal de ônibus do Centro, moradores pedem mais policiamento no horário noturno."
+  },
+  {
+    "id": "M003",
+    "data": "2026-01-03",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Buraco enorme na Av. Brasil, já causou dois acidentes com motos esta semana."
+  },
+  {
+    "id": "M004",
+    "data": "2026-01-04",
+    "categoria_oficial": "saúde",
+    "texto": "Fila de espera para exame de mamografia na UBS do bairro Alto do Céu está em mais de quatro meses."
+  },
+  {
+    "id": "M005",
+    "data": "2026-01-05",
+    "categoria_oficial": "educação",
+    "texto": "A Escola Municipal Recanto Feliz enfrenta uma situação crítica desde o início do ano letivo. Faltam professores de matemática e ciências, e as duas turmas do 8º ano estão sem aula regular dessas disciplinas há mais de dois meses. Além disso, o telhado da quadra coberta apresenta goteiras que se agravam a cada chuva, molhando o piso e criando risco de escorregões durante a educação física. Os pais relatam que já procuraram a direção diversas vezes, mas foram informados de que a contratação de novos professores depende de um processo seletivo que ainda não tem data prevista para acontecer. A associação de pais e mestres pede providências urgentes da Secretaria de Educação antes que o prejuízo pedagógico se torne ainda maior para os alunos do ensino fundamental."
+  },
+  {
+    "id": "M006",
+    "data": "2026-01-06",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Lixo acumulado há semanas em terreno baldio na Rua Acácia, atraindo ratos e insetos, moradores temem doenças."
+  },
+  {
+    "id": "M007",
+    "data": "2026-01-07",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Sinal de trânsito quebrado no cruzamento da Rua Prado com Av. Central causa engarrafamentos diários."
+  },
+  {
+    "id": "M008",
+    "data": "2026-01-08",
+    "categoria_oficial": "saúde",
+    "texto": "Posto de saúde sem médico há duas semanas, ninguém é atendido."
+  },
+  {
+    "id": "M009",
+    "data": "2026-01-09",
+    "categoria_oficial": "segurança",
+    "texto": "Câmeras de monitoramento da praça Getúlio Vargas estão fora de funcionamento há meses."
+  },
+  {
+    "id": "M010",
+    "data": "2026-01-10",
+    "categoria_oficial": "educação",
+    "texto": "Escola Municipal João Paulo está sem professor de matemática desde o início do semestre."
+  },
+  {
+    "id": "M011",
+    "data": "2026-01-11",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Queimada em área de vegetação próxima ao bairro Jardim das Flores preocupa moradores pela fumaça densa."
+  },
+  {
+    "id": "M012",
+    "data": "2026-01-12",
+    "categoria_oficial": "saúde",
+    "texto": "Farmácia básica da UBS Central está sem remédio para pressão alta há mais de um mês."
+  },
+  {
+    "id": "M013",
+    "data": "2026-01-13",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Vazamento de água na Rua das Palmeiras inunda a via há três dias sem qualquer manutenção."
+  },
+  {
+    "id": "M014",
+    "data": "2026-01-14",
+    "categoria_oficial": "segurança",
+    "texto": "Nos últimos dois meses, o bairro Vila Esperança registrou pelo menos seis assaltos a mão armada, sempre no mesmo trecho da Rua das Oliveiras, entre as 19h e as 21h. Os moradores relatam que a iluminação pública da rua está precária, com três postes apagados há mais de um mês, o que facilita a ação dos assaltantes. Em reunião da associação de moradores, ficou decidido enviar um abaixo-assinado para a Secretaria de Segurança pedindo o reforço do policiamento e a manutenção urgente da iluminação. Até o momento, nenhuma viatura foi vista fazendo rondas periódicas na região, o que aumenta a sensação de insegurança entre quem trabalha à noite e precisa caminhar até o ponto de ônibus mais próximo."
+  },
+  {
+    "id": "M015",
+    "data": "2026-02-15",
+    "categoria_oficial": "educação",
+    "texto": "Creche Municipal Passarinho está com infiltração no telhado da sala dos bebês."
+  },
+  {
+    "id": "M016",
+    "data": "2026-02-16",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Fábrica na zona industrial libera fumaça com cheiro forte durante a madrugada, incomodando toda a vizinhança."
+  },
+  {
+    "id": "M017",
+    "data": "2026-02-17",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Asfalto todo esburacado da avenida principal, carros danificados."
+  },
+  {
+    "id": "M018",
+    "data": "2026-02-18",
+    "categoria_oficial": "saúde",
+    "texto": "Demora de mais de três horas no atendimento da emergência do Hospital Municipal na última visita."
+  },
+  {
+    "id": "M019",
+    "data": "2026-02-19",
+    "categoria_oficial": "segurança",
+    "texto": "Moradores relatam furtos a residências no bairro Bela Vista durante a madrugada, quase sempre aos finais de semana."
+  },
+  {
+    "id": "M020",
+    "data": "2026-02-20",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Ponte de madeira sobre o riacho da Vila Nova está com tábuas soltas, oferecendo risco de queda a pedestres."
+  },
+  {
+    "id": "M021",
+    "data": "2026-02-21",
+    "categoria_oficial": "educação",
+    "texto": "Falta merenda escolar na Escola Estadual Monteiro Lobato há mais de uma semana."
+  },
+  {
+    "id": "M022",
+    "data": "2026-02-22",
+    "categoria_oficial": "saúde",
+    "texto": "Falta atendimento no PSF do meu bairro, sem médico e sem enfermeira."
+  },
+  {
+    "id": "M023",
+    "data": "2026-02-23",
+    "categoria_oficial": "segurança",
+    "texto": "Iluminação apagada na praça do bairro favorece assaltos à noite, moradores relatam medo de sair de casa."
+  },
+  {
+    "id": "M024",
+    "data": "2026-02-24",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Calçada esburacada na Rua Sete de Setembro dificulta a passagem de cadeirantes e carrinhos de bebê."
+  },
+  {
+    "id": "M025",
+    "data": "2026-02-25",
+    "categoria_oficial": "saúde",
+    "texto": "Falta de vacina contra gripe nos postos de saúde da zona leste da cidade há mais de duas semanas."
+  },
+  {
+    "id": "M026",
+    "data": "2026-02-26",
+    "categoria_oficial": "meio ambiente",
+    "texto": "O rio que corta o bairro Porto Alegre do Sul vem apresentando uma coloração esverdeada e cheiro forte nas últimas três semanas, o que moradores associam ao despejo de resíduos por uma fábrica têxtil instalada rio acima. Pescadores da região relataram uma grande quantidade de peixes mortos boiando próximo à ponte, algo que nunca haviam presenciado antes. Crianças que costumavam brincar às margens do rio nos fins de semana foram proibidas pelos pais depois que duas pessoas apresentaram irritação na pele após contato com a água. A associação de moradores já enviou fotos e vídeos para o órgão ambiental do município, mas até agora nenhuma equipe de fiscalização foi enviada ao local para verificar a origem da contaminação e cobrar responsabilidade da empresa."
+  },
+  {
+    "id": "M027",
+    "data": "2026-02-27",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Buraco na Rua Correia Pinto está alagando com as últimas chuvas, prejudicando o comércio local."
+  },
+  {
+    "id": "M028",
+    "data": "2026-02-28",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Descarte irregular de lixo em terreno baldio na Rua Acácia atrai insetos e provoca mau cheiro na vizinhança."
+  },
+  {
+    "id": "M029",
+    "data": "2026-03-01",
+    "categoria_oficial": "segurança",
+    "texto": "Falta de policiamento na feira livre do bairro Industrial preocupa comerciantes por causa de furtos constantes."
+  },
+  {
+    "id": "M030",
+    "data": "2026-03-02",
+    "categoria_oficial": "saúde",
+    "texto": "Consultas de fisioterapia atrasadas há dois meses na UBS do bairro Boa Esperança."
+  },
+  {
+    "id": "M031",
+    "data": "2026-03-03",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Lâmpada queimada na praça deixa o local escuro à noite."
+  },
+  {
+    "id": "M032",
+    "data": "2026-03-04",
+    "categoria_oficial": "educação",
+    "texto": "Quadra da Escola Municipal Cecília Meireles está com o piso rachado e alunos já se machucaram durante a aula."
+  },
+  {
+    "id": "M033",
+    "data": "2026-03-05",
+    "categoria_oficial": "saúde",
+    "texto": "Sou responsável por um idoso de 78 anos que faz tratamento contínuo para diabetes e depende de insulina distribuída pela farmácia básica municipal. Nos últimos dois meses, por três vezes seguidas, chegamos à farmácia e fomos informados de que o medicamento estava em falta, sem previsão de reposição. Como alternativa, tivemos que comprar a insulina em farmácias particulares, o que pesa bastante no orçamento familiar, já que se trata de um item de uso contínuo e indispensável. Ao procurar a UBS para entender o motivo, recebemos apenas a informação de que o problema é de logística da secretaria municipal de saúde. Peço que a ouvidoria verifique se há solução prevista, pois outros pacientes crônicos do bairro relatam o mesmo problema com diferentes medicamentos."
+  },
+  {
+    "id": "M034",
+    "data": "2026-03-06",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Rede de esgoto rompida na Rua Bom Jesus libera odor forte há dias, mesmo após reclamações anteriores."
+  },
+  {
+    "id": "M035",
+    "data": "2026-03-07",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Desmatamento de área de preservação próxima ao bairro Vista Alegre preocupa ambientalistas da região."
+  },
+  {
+    "id": "M036",
+    "data": "2026-03-08",
+    "categoria_oficial": "educação",
+    "texto": "Biblioteca da Escola Estadual Machado de Assis está fechada há um mês por falta de funcionário responsável."
+  },
+  {
+    "id": "M037",
+    "data": "2026-03-09",
+    "categoria_oficial": "saúde",
+    "texto": "Exames laboratoriais atrasados há mais de 60 dias no laboratório municipal, sem previsão de resultado."
+  },
+  {
+    "id": "M038",
+    "data": "2026-03-10",
+    "categoria_oficial": "segurança",
+    "texto": "Roubo de fiação elétrica deixou uma rua inteira sem energia por dois dias no bairro Industrial."
+  },
+  {
+    "id": "M039",
+    "data": "2026-03-11",
+    "categoria_oficial": "segurança",
+    "texto": "Na última reunião da associação de moradores do bairro Nova Esperança, o clima foi de indignação. Nos últimos três meses, os casos de violência aumentaram consideravelmente: houve duas tentativas de arrombamento em residências, um assalto a um comerciante local e diversos relatos de perseguição a pedestres durante a noite. Muitos moradores afirmaram já não se sentir seguros para caminhar até o ponto de ônibus após as 20h, principalmente mulheres e idosos. A associação decidiu formalizar um pedido à Secretaria de Segurança Pública solicitando o aumento do número de rondas policiais na região e a instalação de câmeras de monitoramento nos principais acessos do bairro, além de solicitar uma reunião com o comandante da área para apresentar um mapeamento dos pontos mais críticos."
+  },
+  {
+    "id": "M040",
+    "data": "2026-03-12",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Poço de água usado pela comunidade rural está contaminado, moradores relatam mau cheiro e cor escura na água."
+  }
+]
